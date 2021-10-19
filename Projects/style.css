@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.main{
+    background: white;
+    color: black;
+    height: 100vh;
+}
+.main .header{
+    color: white;
+    background: #B61919;
+    padding: 30px 60px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.main .content{
+    padding: 60px 60px;   
+}
+.main .content .projects-container{
+    padding: 10px;
+    border-top: brown 5px solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-bottom: 10px;
+
+}
